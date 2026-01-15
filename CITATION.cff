@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: 'AI Peer Review Prompt v3.1'
+version: 250825.28 
+doi: 10.5281/zenodo.17020101
+authors:
+- family-names: "Kravtsov"
+  given-names: "Gennadiy"
+  ORCID: "https://orcid.org/0009-0000-3405-1461"
+date-released: 2026-01-15
