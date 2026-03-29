@@ -17,7 +17,6 @@
 | Промпт | Ссылка |
 |--------|--------|
 | Глобальный | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/prompt_en.md?plain=1 |
-| Тривиальность | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/triviality_analyzer.md?plain=1 |
 | Заголовок | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/title_analyzer.md?plain=1 |
 | Аннотация | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/abstract_analyzer.md?plain=1 |
 | Введение | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/introduction_analyzer.md?plain=1 |
