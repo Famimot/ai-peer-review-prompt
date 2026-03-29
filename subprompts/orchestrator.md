@@ -16,16 +16,16 @@
 
 | Промпт | Ссылка |
 |--------|--------|
-| Глобальный | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/prompt_en.md |
-| Тривиальность | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/triviality_analyzer.md |
-| Заголовок | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/title_analyzer.md |
-| Аннотация | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/abstract_analyzer.md |
-| Введение | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/introduction_analyzer.md |
-| Методология | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/methodology_analyzer.md |
-| Результаты | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/results_analyzer.md |
-| Заключение | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/conclusion_analyzer.md |
-| Литература | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/references_analyzer.md |
-| Синтез | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/synthesis_analyzer.md |
+| Глобальный | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/prompt_en.md?plain=1 |
+| Тривиальность | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/triviality_analyzer.md?plain=1 |
+| Заголовок | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/title_analyzer.md?plain=1 |
+| Аннотация | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/abstract_analyzer.md?plain=1 |
+| Введение | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/introduction_analyzer.md?plain=1 |
+| Методология | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/methodology_analyzer.md?plain=1 |
+| Результаты | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/results_analyzer.md?plain=1 |
+| Заключение | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/conclusion_analyzer.md?plain=1 |
+| Литература | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/references_analyzer.md?plain=1 |
+| Синтез | https://raw.githubusercontent.com/Famimot/ai-peer-review-prompt/main/subprompts/synthesis_analyzer.md?plain=1 |
 
 ## Алгоритм выполнения
 
