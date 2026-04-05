@@ -27,8 +27,14 @@ All materials required to reproduce the results are publicly available:
 - `Universal_AI_Review_Prompt_v_51_EN.txt` — calibrated version (English)
 - `Simple_AI_Review_Prompt_RU.txt` — simple non-calibrated prompt (for reference)
 
+### Validation Data
+- `validation/Supplementary_Validation_Data.xlsx` — method validation (10 runs of simple and calibrated prompts)
+
 ### Example
 - `DEMO_AMIS_peer_review_4_papers_2026_RU.doc` — example of AI-generated peer review (https://doi.org/10.5281/zenodo.19275632)
+
+### Subprompts
+- `subprompts/` — modular prompts for analyzing individual sections (title, abstract, introduction, etc.)
 
 ## License
 
