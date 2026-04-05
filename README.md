@@ -36,6 +36,10 @@ All materials required to reproduce the results are publicly available:
 ### Subprompts
 - `subprompts/` — modular prompts for analyzing individual sections (title, abstract, introduction, etc.)
 
+### Related Publication
+
+Kravtsov G.G. Open-source AI reviewer: universal tool for hybrid expertise and self-analysis of scientific texts (https://doi.org/10.5281/zenodo.17020322)
+
 ## License
 
 CC BY 4.0
