@@ -30,7 +30,7 @@
 ### Валидационные данные (validation)
 - `validation/Supplementary_Validation_Data.xlsx` — валидация метода (10 прогонов простого и калиброванного промптов)
 
-### Пример (Example)
+### Пример (example)
 - `DEMO_AMIS_peer_review_4_papers_2026_RU.doc` — пример ИИ-рецензии (https://doi.org/10.5281/zenodo.19275632)
 
 ### Субпромпты (subprompts)
