@@ -23,8 +23,9 @@
 - `Universal_AI_Review_Prompt_v_51_RU.txt` — калиброванный (рус.)
 - `Universal_AI_Review_Prompt_v_51_EN.txt` — калиброванный (англ.)
 - `Simple_AI_Review_Prompt_RU.txt` — простой, некалиброванный (для справки)
+- `Supplementary_Validation_Data.xlsx` -  — валидация метода
 - `DEMO_AMIS_peer_review_4_papers_2026_RU.doc` — пример ИИ-рецензии (https://doi.org/10.5281/zenodo.19275632)
-
+ 
 ## Связанная публикация
 
 Кравцов Г.Г. ИИ-рецензент с открытым кодом: универсальный инструмент для гибридной экспертизы и самоанализа научных текстов. [DOI]
