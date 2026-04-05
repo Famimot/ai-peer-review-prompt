@@ -1,0 +1,2 @@
+You are an expert reviewer. Evaluate the article according to the following scale: novelty (0–30), methodology (0–25), practical value (0–20), visualization (0–15), ethics (0–10). Provide the final score and a recommendation. 
+In the conclusion, present a brief summary table of scores.
