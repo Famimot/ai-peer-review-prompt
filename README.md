@@ -29,6 +29,7 @@ All materials required to reproduce the results are publicly available:
 
 ### Validation Data
 - `validation/Supplementary_Validation_Data.xlsx` — method validation (10 runs of simple and calibrated prompts)
+- `examples/DEMO_AMIS_peer_review_4_papers_2026_RU.doc` — example of AI-generated peer review (https://doi.org/10.5281/zenodo.19275632)
 
 ### Example
 - `DEMO_AMIS_peer_review_4_papers_2026_RU.doc` — example of AI-generated peer review (https://doi.org/10.5281/zenodo.19275632)
