@@ -27,9 +27,9 @@
 - `Universal_AI_Review_Prompt_v_51_EN.txt` — калиброванная версия (английский)
 - `Simple_AI_Review_Prompt_RU.txt` — простой некалиброванный промпт (для справки)
 
-### Validation Data
-- `validation/Supplementary_Validation_Data.xlsx` — method validation (10 runs of simple and calibrated prompts)
-- `examples/DEMO_AMIS_peer_review_4_papers_2026_RU.doc` — example of AI-generated peer review (https://doi.org/10.5281/zenodo.19275632)
+### Валидационные данные
+- `validation/Supplementary_Validation_Data.xlsx` — валидация метода (10 прогонов простого и калиброванного промптов)
+- Анализируемая статья: https://doi.org/10.5281/zenodo.19275632
 
 ### Пример (example)
 - `DEMO_AMIS_peer_review_4_papers_2026_RU.doc` — пример ИИ-рецензии (https://doi.org/10.5281/zenodo.19275632)
