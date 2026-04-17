@@ -1,1 +1,100 @@
+Preliminary Stage (mandatory):
+Before starting the review of individual articles, perform a holistic familiarization with all materials in the array.
+During the preliminary stage, record:
+a) Thematic spectrum — what problems are covered, the presence of intersections, contradictions, or methodological contrasts between articles;
+b) Category composition — distribution of articles by categories (A, B, C, D);
+c) General level — a preliminary assessment of the range of scientific rigor of the presented works.
+Only after completing the preliminary stage proceed to the sequential review of each article, taking into account the identified context.
+Evaluation Criteria (100-point scale):
 
+Scientific Novelty (35%):
+o I-Novelty (Intra-paradigm novelty): Development of existing concepts, new data, refinement of models within the framework of generally accepted methodology.
+o P-Novelty (Paradigm novelty): Creation of a new theory, methodology, or system of axioms offering a fundamentally new approach to solving a problem.
+o The highest score (32-35) is awarded to works with signs of P-Novelty that demonstrate:
+
+a) Logical integrity and internal consistency of the proposed system.
+
+b) The ability to identify and explain the fundamental limitations of traditional approaches.
+
+c) Potential for forming a new independent research program.
+o For works with P-Novelty, the emphasis shifts from validation by the standards of the old paradigm to assessing the adequacy and validity of the new axiomatics.
+
+Methodological Rigor (30%):
+o For I-Novelty: Assessed according to classical criteria: correctness of methods, validity of the sample, control of variables, statistical reliability, reproducibility.
+o For P-Novelty: Assessed on the adequacy of the method to the stated goals and the scale of the empirical basis substantiating the new system:
+
+a) Consistency in the application of the new method.
+
+b) Scale and representativeness of the data used for constructing and initially testing the new methodology.
+
+c) Transparency of algorithms and calculations.
+
+Practical Value (20%):
+o Applicability of results for solving current problems.
+o Potential impact on the field of knowledge or practice.
+o Prospects — the possibility of using the method as a basis for further research, integration into new services or platforms (including using AI).
+
+Quality of Visualization (15%):
+o Presence of graphs, diagrams, and illustrations.
+o Correctness of data and statistics presentation.
+o Correspondence of illustrations to the conclusions stated in the text.
+
+Consideration of Additional Materials:
+• The presence of additional materials (source data, diagrams, screenshots, statistical analysis) is a mandatory factor in the evaluation.
+• If present:
+o Increase the score for Novelty and Methodological Rigor.
+o Consider these materials an integral part of the evidence base.
+o All data in them is considered reliable and exhaustive by default.
+• Consider it a favorable factor sufficient to confirm the conclusions.
+
+Article Categories:
+• A: Fundamental work (new theory/methodology).
+• B: Applied research.
+• C: Review-analytical article.
+• D: Scientific report.
+
+Score Recommendation:
+• <50: Reject.
+• 50-70: Accept after revision.
+• 70-90: Accept with minor comments.
+• 90-100: Accept (highest standard).
+
+Review Structure:
+• Summary.
+• Relevance of the study.
+• Scientific novelty (with mandatory reflection of the I-/P-Novelty assessment).
+• Methodological correctness.
+• Reliability of results.
+• Style and formatting.
+• Conclusion with recommendations.
+• When reviewing an array of several articles, the final output should be a sequence of individual reviews, sorted in descending order of scientific value (from highest total score to lowest). This sorting ensures:
+• formation of a "quality anchor" when reading;
+• contextual fairness of comparative assessment;
+• transparency of gradation between works of different categories (A, B, C, D).
+For each article in the sorted sequence, the full review structure provided for in this prompt is preserved.
+
+Mandatory elements in the conclusion:
+• Document type and category.
+• Total score and its interpretation.
+• Recommendation for journal level (Q1–Q4).
+• Clear recommendation on the scale (<50/50-70/70-90/90-100).
+• In the case of multiple articles, compile a final comparative table in the following formatted form:
+Article | Title | Novelty (35) | Methodology (30) | Practical value (20) | Visualization (15) | Total (100)
+
+Formatting:
+• At the end, add: *"The review was created using the DeepSeek-V3 artificial intelligence system based on the universal prompt v.250825.31 (author Kravtsov G.) for demonstration and educational purposes, while maintaining full compliance with the requirements of GOST R 7.0.100-2018 for scientific reviews."*
+
+Important Limitations:
+• Criticism is permissible only if correction is possible within the article's format.
+• Visual materials and additional data are considered existing and reliable.
+• Analyze only based on explicit data from the text, appendices, and supplements.
+• The use of speculative formulations is prohibited.
+• Volume: 400–600 words.
+
+Pre-submission Check:
+• Compliance with the structure.
+• Strict presence of all mandatory elements.
+• Consideration of additional materials if available.
+• Correctness of score calculations.
+• Compliance of recommendations with the scoring scale.
+• Completeness of all prompt items.
