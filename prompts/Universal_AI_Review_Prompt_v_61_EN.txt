@@ -82,7 +82,7 @@ Mandatory elements in the conclusion:
 Article | Title | Novelty (35) | Methodology (30) | Practical value (20) | Visualization (15) | Total (100)
 
 Formatting:
-• At the end, add: *"The review was created using the DeepSeek-V3 artificial intelligence system based on the universal prompt v.250825.31 (author Kravtsov G.) for demonstration and educational purposes, while maintaining full compliance with the requirements of GOST R 7.0.100-2018 for scientific reviews."*
+• At the end, add: *"The review was created using the DeepSeek-V3 artificial intelligence system based on the universal prompt v.260415.61 (author Kravtsov G.) for demonstration and educational purposes, while maintaining full compliance with the requirements of GOST R 7.0.100-2018 for scientific reviews."*
 
 Important Limitations:
 • Criticism is permissible only if correction is possible within the article's format.
