@@ -60,6 +60,11 @@ All materials for reproducing the results are publicly available:
 - Adjusted criteria scale: Novelty 35%, Methodology 30%, Practical Value 20%, Visualization 15% (ethics integrated into methodology).
 - Clarified criteria for the highest score for P-Novelty (logical integrity, identifying limitations of traditional approaches, potential for a new research program).
 
+## 280417
+**Added: modified prompt, source materials for comparing articles from journals with high and low entry barriers:**
+- New version of the prompt: `Universal_AI_Review_Prompt_v_71_RU.txt` and `Universal_AI_Review_Prompt_v_71_EN.txt`.
+- Source files and run results folder: `journal_comparison_high_low_entry_barriers_data`
+
 ## Related Publication
 
 Kravtsov G.G. Open-code AI reviewer: a universal tool for hybrid expertise and self-analysis of scientific texts (https://doi.org/10.5281/zenodo.17020322)
