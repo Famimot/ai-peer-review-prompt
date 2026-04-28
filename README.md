@@ -65,9 +65,12 @@ All materials for reproducing the results are publicly available:
 - New version of the prompt: `Universal_AI_Review_Prompt_v_71_RU.txt` and `Universal_AI_Review_Prompt_v_71_EN.txt`.
 - Source files and run results folder: `journal_comparison_high_low_entry_barriers_data`
 
-## Related Publication
+## Related publications
 
-Kravtsov G.G. Open-code AI reviewer: a universal tool for hybrid expertise and self-analysis of scientific texts (https://doi.org/10.5281/zenodo.17020322)
+Kravtsov G.G. Open-source AI reviewer: a universal tool for hybrid expertise and self-analysis of scientific texts (https://doi.org/10.5281/zenodo.17020322)  
+Kravtsov G.G. Two-level open-source architecture for independent ranking of scientific journals (https://doi.org/10.5281/zenodo.19640342)  
+Kravtsov G.G. TWO-LEVEL OPEN-SOURCE ARCHITECTURE FOR INDEPENDENT AI RANKING OF SCIENTIFIC JOURNALS (https://doi.org/10.31235/osf.io/vpbk6_v1)  
+Kravtsov G.G. Calibration AI reviewer: algorithm for comparing scientific journals with high and low entry barriers (https://doi.org/10.5281/zenodo.19784244)  
 
 ## License
 
