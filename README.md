@@ -60,10 +60,14 @@ All materials for reproducing the results are publicly available:
 - Adjusted criteria scale: Novelty 35%, Methodology 30%, Practical Value 20%, Visualization 15% (ethics integrated into methodology).
 - Clarified criteria for the highest score for P-Novelty (logical integrity, identifying limitations of traditional approaches, potential for a new research program).
 
-## 280417
+## 260428
 **Added: modified prompt, source materials for comparing articles from journals with high and low entry barriers:**
 - New version of the prompt: `Universal_AI_Review_Prompt_v_71_RU.txt` and `Universal_AI_Review_Prompt_v_71_EN.txt`.
 - Source files and run results folder: `journal_comparison_high_low_entry_barriers_data`
+
+## 260430
+**Added source materials for the article CALIBRATED AI REVIEWER: AN ALGORITHM FOR MATCHING A MANUSCRIPT WITH A JOURNAL'S LEVEL**
+- source files and run results in folder `AI_Reviewer_Manuscript_vs_Journal`
 
 ## Related publications
 
