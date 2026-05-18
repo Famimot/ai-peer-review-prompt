@@ -1,6 +1,6 @@
 # Prompt for AI Review
 
-**Version:** 51 - 61 (250326.51 - 260417.61)  
+**Version:** 51 - 61 (250326.51 - 260518.73)  
 **Author:** Kravtsov G.G.  
 **AI Model:** DeepSeek  
 **Languages:** Russian / English
@@ -68,6 +68,9 @@ All materials for reproducing the results are publicly available:
 ## 260430
 **Added source materials for the article CALIBRATED AI REVIEWER: AN ALGORITHM FOR MATCHING A MANUSCRIPT WITH A JOURNAL'S LEVEL**
 - source files and run results in folder `AI_Reviewer_Manuscript_vs_Journal`
+
+## 260518
+Added version `Universal_AI_Review_Prompt_v_73_EN.txt`
 
 ## Related publications
 
